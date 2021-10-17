@@ -13,3 +13,5 @@ Zum Beipiel:
 
 [leaflet-geojson circleMarker radius=6 color='#46962b' weight=4 fill=on fillOpacity=0.5 src=https://raw.githubusercontent.com/SaschaKaden/maps/main/Infostaende.geojson fitbounds=1]{popup-text}[/leaflet-geojson]
 
+Als Test kann die Beispieltabelle verwendet werden.
+Dabei ist darauf zu achten, dass die gleichen Reiternamen verwendet werden!
